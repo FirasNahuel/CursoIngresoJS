@@ -76,44 +76,10 @@ function mostrar()
     document.write("a) Cantidad de números pares: " + contadorPares + "</br>");
     document.write("b) Cantidad de números impares: " + contadorImpares + "</br>");
     document.write("c) Cantidad de ceros: " + contadorCeros + "</br>");
-    document.write("d) Promedio de todos los números positivos ingresados: " + promedioPos.toFixed(2) + "</br>");
+    document.write("d) Promedio de todos los números positivos ingresados: " + promedioPos + "</br>");
     document.write("e) La suma de todos los números negativos: " + acumuladorNeg + "</br>");
     document.write("f) Número Máximo: " + numeroMax + " Letra: " + letraMax + "</br>");
     document.write("f) Número Minimo: " + numeroMin + " Letra: " + letraMin + "</br>")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
